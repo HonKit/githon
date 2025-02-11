@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "cpy-cli": "^4.2.0",
-    "esbuild": "^0.18.20",
+    "esbuild": "^0.25.0",
     "gitbook-markdown-css": "^1.1.0",
     "less": "2.7.1",
     "less-plugin-clean-css": "1.5.1",
